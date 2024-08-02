@@ -9,27 +9,27 @@ not good at them (you aren't bad, you just haven't practiced the right things!).
 
 
 ## tasks:
-add all bads CV version and explain why they are bad
-get all content from old pc
-checkout tablet for my prepare page
-next section to work on: how to start - company size, what is the key differences
-add youtube video 
-fix why I started and what is this to show why this one is different maybe add "How is this repository is different"
-at the end improve styling
+ - add all bads CV version and explain why they are bad
+ - get all content from old pc
+ - checkout tablet for my prepare page
+ - next section to work on: how to start - company size, what is the key differences
+ - add youtube video 
+ - fix why I started and what is this to show why this one is different maybe add "How is this repository is different"
+ - at the end improve styling
 
-#### currently no one will understand why to read this -> there is so many existing -> 
-#### this one is specific for 2-6 backend and data engineer, focus only on things you have to practise for interviews
-#### no books, only practice for what really metters
-#### and prepare for the mental struggles that comes with the job search process,
-#### how to track and plan
-#### your job 
+# improvements that should be done
+- currently no one will understand why to read this -> there is so many existing -> 
+this one is specific for 2-6 backend and data engineer, focus only on things you have to practise for interviews
+- no books, only practice for what really metters
+and prepare for the mental struggles that comes with the job search process,
+- how to track and plan your job search  
 
 # 
 ## why I started this project:
 After four years as a Platform Engineer / Data Engineer, I finished my military service and started
 looking for a job as a Software Engineer in health tech companies. I found that the interview
 process was very different from the day-to-day work and from the interviews I had done in the 
-past(the war in my country did not help for the job search process).
+past (the war in my country did not help for the job search process).
 
 I began talking with friends in the industry and conducting some interviews. I discovered that
 there are adjustments needed to become a strong candidate for backend and data engineering roles.
