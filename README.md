@@ -1,21 +1,30 @@
+# DataDevInterviewKit
+[![license](https://img.shields.io/github/license/pydantic/pydantic.svg)](https://github.com/pydantic/pydantic/blob/main/LICENSE)
 
-tasks:
+Guide for developers and data engineers with around 2-6 years of
+experience who are seeking new job opportunities and want to do so efficiently. It is
+designed for those who may lack experience with coding interviews or feel that they are
+not good at them (you aren't bad, you just haven't practiced the right things!).
+
+
+
+## tasks:
 add all bads CV version and explain why they are bad
 get all content from old pc
 checkout tablet for my prepare page
+next section to work on: how to start - company size, what is the key differences
+add youtube video 
+fix why I started and what is this to show why this one is different maybe add "How is this repository is different"
+at the end improve styling
 
+#### currently no one will understand why to read this -> there is so many existing -> 
+#### this one is specific for 2-6 backend and data engineer, focus only on things you have to practise for interviews
+#### no books, only practice for what really metters
+#### and prepare for the mental struggles that comes with the job search process,
+#### how to track and plan
+#### your job 
 
-
-
-# DataDevInterviewKit
-## what is this (to find better title)
-This repository is a helpful tool for developers and data engineers with around 2-6 years of
-experience who are looking for a new job and want to do so efficiently. It is
-designed for those who may not have much experience with coding interviews or feel that they are
-not good at them (you aren't bad, you just haven't practiced enough!).
-
-
-
+# 
 ## why I started this project:
 After four years as a Platform Engineer / Data Engineer, I finished my military service and started
 looking for a job as a Software Engineer in health tech companies. I found that the interview
@@ -29,6 +38,7 @@ really like—a small startup in Pharmaco-Clinical Intelligence.
 
 I have some friends who are also looking for jobs, so I started helping them. This inspired me to
 write this guide to assist more people in preparing for coding interviews.
+
 
 ## How to start?
 
@@ -91,6 +101,12 @@ and keep looking for the next opportunity
 view:
 allow to close and open windows
 
+
+
+
+# how to stay motivated:
+
+
 # how to publish:
 make the project public
 upload to linkedin
@@ -99,3 +115,6 @@ Magshimim next
 matmon all generations
 jobs data engineering (whats app group)
 to find facebook groups for job search
+
+
+add star if you liked this
