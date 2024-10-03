@@ -101,7 +101,7 @@ I have included my CV as a reference (not perfect, but designed based on these g
 - **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
 - **Meeting with senior management**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
 - **Reference check**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
-- **Offer stage**:  will receive a offer with the salary, benefits, and other employment conditions.
+- **[Offer stage](#salary-negotiation)**:  will receive a offer with the salary, benefits, and other employment conditions.
 
 ***Important Note***: Before each technical interview, ask about the interview format. This will help you understand what to expect and how to best prepare.
 
@@ -313,9 +313,6 @@ By following these guidelines and consistently practicing, you'll be well-prepar
 
 
 
-# create a plan - for studying and executing coding interviews --todo
-
-
 ## How to Measure if a Job is a Good Fit for You
 
 At the start of your interview process, ask yourself [these questions](#company-type) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll uncover insights that may not be included in the job description.
@@ -339,5 +336,5 @@ I found this video helpful in understanding how salary negotiations work, what t
     https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
 
 
-
+# create a plan - for studying and executing coding interviews --todo
 
