@@ -326,19 +326,13 @@ Additionally, consider practical aspects like your commute to the office and the
 
 Don’t be afraid to decline job offers that don’t align with your initial parameters or that leave you feeling uncertain about your fit within the company.
 
+## Salary Negotiation
 
-# how to measure if a job is good fit for you? (to finish)
-at the start of your interview process you ask yourself [this questions](#company-type) so you have few parameters that you can use to measure if the job is good fit for you.
-but this is not all the story as you start to interview in the company you will start to understand things that are not written in the job description.
-you will understand from the expectations of the team leader, questions about the product better understanding if this product is interesting for you, if the team leader 
-is micromanagement or not, if the people in the office are nice or not, if the company is flexible or not, if the company is using the latest technologies or not, if the company is using the best practices or not.
-what is actually the team tech Stack, how much time it takes from your home to the office, you will get taste about the company culture
+To negotiate effectively, start by researching the average salary for your position in your location and industry. Reach out to friends or colleagues with similar experience for insights.
 
-don't be afraid to say no to job offers that you don't like or you think that are not good fit for you (by the parameters you specified in the start of the interview process).
+Understanding how to negotiate your salary is crucial. It’s important to know your worth and articulate why you deserve the salary you’re asking for. Many people feel uncomfortable during salary negotiations and often want to rush through the process. However, taking your time and clearly explaining your value can be beneficial. In 99.99% of cases, this approach won't hurt you. Even if you don't secure a higher salary, you may gain better options, stock options (RSUs), or leverage for future negotiations.
 
-
-# Money --todo:
-https://www.youtube.com/watch?v=pzq37L4UBUU&t=1094s
+I found this video helpful in understanding how salary negotiations work, what to expect, and how to prepare: [Salary Negotiation Video](https://www.youtube.com/watch?v=pzq37L4UBUU&t=1094s) (Hebrew).
 
 
 ## more resources for data engineers: --need to be removed
