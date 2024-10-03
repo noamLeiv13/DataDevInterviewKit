@@ -1,10 +1,10 @@
 # Data Dev Interview Kit
 [![license](https://img.shields.io/github/license/pydantic/pydantic.svg)](https://github.com/pydantic/pydantic/blob/main/LICENSE)
 
-Guide for developers and data engineers with around 2-6 years of
+Guide for backend developers and data engineers with around 2-6 years of
 experience who are seeking new job opportunities and want to do so efficiently. It is
 designed for those who may lack experience with coding interviews or feel that they are
-not good at them (you aren't bad, you just haven't practiced the right things!).
+not good at them.
 
 
 ## How to start?
@@ -117,6 +117,10 @@ The interview process can change between companies and positions, but generally,
 - Building confidence:
     - After a few interviews, you'll likely feel more comfortable with the process.
     - As your confidence grows, you can then focus on applying to and interviewing with companies that truly interest you.
+
+
+## Failures:
+It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer. Interviewing is a skill that improves with practice and preparation. 
 
 
 ## Questions to Ask During the interview process:
@@ -294,95 +298,52 @@ By following these guidelines and consistently practicing, you'll be well-prepar
 
 
 
-## SQL (for Data Engineers mostly)
-
-
-## Red Flags In Companies: (todo)
- - asking for home project without doing interview first - it is a sign that they are not respecting your time and they are not serious about hiring you.
- - not showing up on zoom when they scheduled the interview - it is a sign that they are not respecting your time and they are not serious about hiring you.
- - making the interview and not giving all their focus to it
+## SQL (for Data Engineers mostly) --todo
 
 
 
-# create a plan - for studying and executing coding interviews
+## Red Flags in Companies:
 
+- **Lack of Respect for Your Time**:
+    - Requesting Home Projects Before an Interview
+    - Failing to Show Up for Scheduled Interviews
 
+- **Lack of Engagement During the Interview**: If interviewers appear distracted or disinterested, it's a red flag about the company culture and may indicate it's not a place you would want to work.
 
 
 
 
-# Failures:
-it is ok to fail on multiple interviews and not saying anything about your skills as software engineer, it is just a matter of practice and preparation.
-Remember did you create production product, CR, bug fix, feel fluent in at least one coding language so you are capable engineer! you will help a lot to company we just need to find the best available opportunity )
+# create a plan - for studying and executing coding interviews --todo
 
 
-# Time
-Most of the time it will not be a quick win so you need to be patient and keep looking for the right opportunity.
+## How to Measure if a Job is a Good Fit for You
+
+At the start of your interview process, ask yourself [these questions](#company-type) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll uncover insights that may not be included in the job description.
+
+You’ll gain understanding from the expectations of the team leader, questions about the product, and whether the product genuinely interests you. You can also assess the team leader's management style. Pay attention to the dynamics among team members and whether the workplace environment feels welcoming. Consider factors like company flexibility, the use of modern technologies, and the specific tech stack.
+
+Additionally, consider practical aspects like your commute to the office and the overall company culture. Think about how these factors will affect your work-life balance and job satisfaction.
+
+Don’t be afraid to decline job offers that don’t align with your initial parameters or that leave you feeling uncertain about your fit within the company.
+
+
+# how to measure if a job is good fit for you? (to finish)
+at the start of your interview process you ask yourself [this questions](#company-type) so you have few parameters that you can use to measure if the job is good fit for you.
+but this is not all the story as you start to interview in the company you will start to understand things that are not written in the job description.
+you will understand from the expectations of the team leader, questions about the product better understanding if this product is interesting for you, if the team leader 
+is micromanagement or not, if the people in the office are nice or not, if the company is flexible or not, if the company is using the latest technologies or not, if the company is using the best practices or not.
+what is actually the team tech Stack, how much time it takes from your home to the office, you will get taste about the company culture
+
 don't be afraid to say no to job offers that you don't like or you think that are not good fit for you (by the parameters you specified in the start of the interview process).
 
-# how to measure if a job is good fit for you?
+
+# Money --todo:
+https://www.youtube.com/watch?v=pzq37L4UBUU&t=1094s
 
 
-
-# money - related to ctos - there is some ways join whats app groups of job search, ask friends, check salary websites (in your country)
-
-
-# plan your preparation for the interview process
-
-# how to stay motivated:???? 
-
-
-
-
-
-## more resources for data engineers:
+## more resources for data engineers: --need to be removed
     https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
 
 
 
 
-https://www.techinterviewhandbook.org/coding-interview-cheatsheet/
-
-
-links and content I am just adding another layer - so you need to explain everything in your own words!!!!do--
-practise solving this home project in limited time, and then explain your decisions to yourself out loud.
-good projects for practise are:
-build rest api for Library - with books, authors, and users, allow user to borrow books, return books, and see the list of books they borrowed, rate books, and see the list of books they rated.
-implement a simple online shop - with products, categories, users, and orders, allow users to add products to the cart, checkout, and see the list of orders they made.
-the shop have catalog of products and discounts - for each 2 items you will buy you will get one free, there are specific items that 4 of them will cost 100 dollars, implement the logic for the discounts.
-- build data pipeline for async data processing (data engineering) - you will have local folder and when new file will be insert to your folder, and you will need to process it in each step you will need to process it and write it to new folder
-- 
-- to add 2 more exercises
-- add one more for data engineer
-
-Bike rental app
-
-###few important things in the home project - data validation, error handling, code readability, and simplicity of the solution, use configuration, basic logging
-if there is free time/ specified write tests for the project
-
-
-## more resources for data engineers:
-    https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
-
-
-
-
-
-
-
-# lets talk about money:
-
-https://www.techinterviewhandbook.org/coding-interview-techniques/
-
-
-
-
-
-
-https://www.techinterviewhandbook.org/coding-interview-cheatsheet/
-
-
-links and content I am just adding another layer - so you need to explain everything in your own words!!!!
-
-
-maybe should be only for backend developer?
