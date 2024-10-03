@@ -37,16 +37,15 @@ When considering a company, several factors play a significant role in your deci
 
 ## How to find relevant companies:
 - Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
-- use startup nation finder to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
-  [StartupNation](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA)
+- Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
   - you cannot filter by companies that are actively hiring for specific job, but it will let you expose to more companies based on your filter and some of them will have open positions .
-- use HR agencies to find companies that are hiring for your position.
-- join to whatsapp or facebook groups for job search
+- Use HR agencies to find companies that are hiring for your position.
+- Join to whatsapp or facebook groups for job search
   Data Engineering Jobs:
       [Data Engineering jobs whatsapp](https://chat.whatsapp.com/G2zuK91zewGLRCJqjPvMi6)
-- set job recommendation daily mail via linkedin
-- ask friends that are currently working in companies - why chose their company and if they are hiring for a position that matches your skills.
-- read about domain you are interested in and find companies that are working in this domain - biotech, fintech, blockchain, cybersecurity, etc.
+- Set job recommendation daily mail via linkedin
+- Ask friends that are currently working in companies - why chose their company and if they are hiring for a position that matches your skills.
+- Read about domain you are interested in and find companies that are working in this domain - biotech, fintech, blockchain, cybersecurity, etc.
 
 
 ## How to get job interviews:
@@ -76,8 +75,11 @@ For example, in the work experience section:
 
 This example demonstrates the value my work added to the company through a measurable result, which strengthens your case as a capable engineer
 
-To increase your chances of standing out, **update your CV for each job you apply to**. Carefully review the job description and adjust your CV to highlight the most relevant experience, that align with the specific role. You can upload your CV to ChatGPT to receive personalized suggestions for updating it to the job description.
+### For each job, update your CV:
+Use ChatGPT to modify your CV for specific job descriptions. You can use this prompt:
+> "Update this CV {attach CV} to match this job description. Only use information that exists in the original CV."
 
+This will increase your chances of standing out.
 Lastly, treat your LinkedIn profile as an extension of your CV. Keeping it updated and visually aligned with your CV is essential for a professional online presence.
 
 ## Additional Resources
@@ -94,9 +96,9 @@ I have included my CV as a reference (not perfect, but designed based on these g
 
 ## Overview of the Interview Process
 
-- **Phone call with HR**: Typically covers your background, interest in the position, and sometimes salary expectations.
-- **Phone interview**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
-- **Technical interviews**: Primarily coding-based, with the possibility of system design questions or a home project.
+- **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
+- **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
+- **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
 - **Meeting with senior management**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
 - **Reference check**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
 - **Offer stage**:  will receive a offer with the salary, benefits, and other employment conditions.
@@ -106,6 +108,45 @@ I have included my CV as a reference (not perfect, but designed based on these g
 The interview process can change between companies and positions, but generally, you’ll experience a phone call with HR, one or two technical interviews, and possibly a take-home assignment.
 
 
+## How to Get Started with Interviews
+
+- Begin with warm-up interviews:
+    - Start by interviewing with companies you're not particularly interested in.
+    - This approach provides valuable experience and prepares you for interviews with companies you're more excited about.
+
+- Building confidence:
+    - After a few interviews, you'll likely feel more comfortable with the process.
+    - As your confidence grows, you can then focus on applying to and interviewing with companies that truly interest you.
+
+
+## Questions to Ask During the interview process:
+When interviewing, I like to ask the following questions to gather more information about the company and the team:
+- What is the team size?
+- Who would you describe as the ideal team member?
+- What is the biggest challenge the team is currently facing?
+- Where do you see the company in one year?
+- Where do you see the team in one year?
+- What tech stack does the team use?
+- What are the company's long-term plans?
+- How much time, on average, do you spend in meetings?
+- Who are the customers, and why do they pay for the product?
+- Are there other companies trying to solve similar problems?
+
+
+
+# How to Introduce Yourself
+
+When introducing myself, I typically follow this structure:
+
+1. **Personal Details**: I start with some basic information about myself: my age, where I'm from, and where I currently live.
+
+2. **Personal Interests**: I then mention things I like to do outside of work. For me, this includes playing basketball and hiking, as well as volunteering. Although some might not see this as necessary, I find it helps to get into the flow of the conversation.
+
+3. **Education and Experience**: Next, I cover my educational background and past work experiences. I focus on qualifications that fit the job I'm applying for.
+
+4. **Current Role**: Finally, I talk about my current job and what I do there.
+
+For more tips on how to introduce yourself, you can check out the [Tech Interview Handbook: Self-Introduction](https://www.techinterviewhandbook.org/self-introduction/).
 
 
 ## Phone Call with HR
@@ -156,7 +197,7 @@ To manage this, I remind myself at the start of the interview that it's normal t
 Most of the time, after this initial phase, I feel much better about the problem and can dive into solving it more effectively.
 
 
-### My Approach to Coding Interviews:
+### How to approach coding interviews:
 
 1. **Ask Helpful Questions**:
     - **Clarify the problem**: Start by asking questions to fully understand the problem and ensure you understand the requirements.
@@ -172,22 +213,13 @@ Most of the time, after this initial phase, I feel much better about the problem
 
 5. **Refine the Solution**: After discussing the initial solution, I aim to improve it and ask clarifying questions if necessary.
 
+### Additional Resources:
+- [Tech Interview Handbook: Coding Interview Techniques](https://www.techinterviewhandbook.org/coding-interview-techniques/)
 
-## Questions to Ask During the interview process:
-When interviewing, I like to ask the following questions to gather more information about the company and the team:
-- What is the team size?
-- Who would you describe as the ideal team member?
-- What is the biggest challenge the team is currently facing?
-- Where do you see the company in one year?
-- Where do you see the team in one year?
-- What tech stack does the team use?
-- What are the company's long-term plans?
-- How much time, on average, do you spend in meetings?
-- Who are the customers, and why do they pay for the product?
-- Are there other companies trying to solve similar problems?
+#### to see what the difference between system design and coding interview is
 
 
-## Home project: (todo)
+## Home project:
 some of the companies will ask you to do a home project. home project is very different from programing in real life so there are few adjustments that need to be done
 you have limited time to do the project so you need to focus first on creating something that works, and then you can improve it.
 it is tempting to use git, add tests and other great practices you are doing in your day-to-day work, but it is not the goal of the home project.
@@ -201,23 +233,63 @@ key points for home project:
 - If you're familiar with a particular coding model (OOP or functional) or libraries that you use frequently, stick with them instead of choosing something that might be a better fit but you're unfamiliar with
 -  after the interview you will be asked about your decisions so be prepared to explain why you chose to do things in a specific way.
 
+## How to Prepare:
+Practice solving home projects within a limited time, and afterward, explain your decisions out loud to yourself.
 
-
-
-**How to Prepare:** --todo--
-practise solving this home project in limited time, and then explain your decisions to yourself out loud.
 good projects for practise are:
-Library book rental delivery app
-Interface for an autonomous ridesharing vehicle
-Bike rental app
+- **Build a REST API for a Library**: Include books, authors, and users. Allow users to borrow and return books, view the list of books they have borrowed, rate books, and see the books they’ve rated.
 
-###few important things in the home project - data validation, error handling, code readability, and simplicity of the solution, use configuration, basic logging
-if there is free time/ specified write tests for the project
+- **Implement a Simple Online Shop**: Include products, categories, users, and orders. Allow users to add products to their cart, check out, and view their order history. Implement a product catalog and discount logic:
+    - Buy 2 items, get 1 free.
+    - Certain items are priced at 4 for $100. Implement these discount rules in your project.
+
+- **Create a REST API for a Student Management System**: Include students, courses, teachers, and grades. Allow students to register for courses, view their registered courses, see their grades, and view their list of teachers.
+
+- **Build a Data Engineering Pipeline**: process daily sales CSV reports asynchronously. When a new file is added to the `input` folder, the pipeline should:
+    1. **Schema Validation**:
+        - Columns: `transaction_id` (string), `timestamp` (datetime), `customer_id` (string), `product_id` (string), `quantity` (integer), `price` (float).
+
+    2. **Data Processing**:
+        - Task 1: Remove duplicates by `transaction_id` and write the result to the `deduplicated` folder.
+        - Task 2: Filter out transactions where `quantity` is zero and write the result to the `filtered` folder.
+        - Task 3: Add a new column `total_amount` (`quantity * price`) and write the result to the `enriched` folder.
+
+    3. **Output**:
+        - Final processed data should be written to the `processed` folder in Parquet format.
+
+
+### Key Aspects to Focus On:
+
+- **Data Validation**: Ensure all input is valid and conforms to expected formats.
+- **Error Handling**: Gracefully handle potential errors in the system.
+- **Code Readability**: Write clean and understandable code.
+- **Simplicity**: Aim for a straightforward, maintainable solution.
+- **Configuration and Logging**: Use configuration files and implement basic logging.
 
 
 
-## System Design (todo)
+## System Design
+I strongly recommend exploring https://interviewing.io/guides/system-design-interview for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
 
+## How to Prepare:
+- Design a system for a specific use case, such as:
+    - URL shortener
+    - Social media platform (e.g., Instagram)
+    - Chat application
+- For each design, thoroughly explain:
+    - Database structure
+    - Microservice architecture
+    - API design
+    - Technology stack choices
+    - Scalability considerations
+    - Performance optimization strategies
+
+### Develop Communication Skills
+- Practice explaining your designs clearly and concisely
+- Be prepared to discuss trade-offs and decision-making processes
+- Demonstrate an understanding of both technical and non-technical aspects of system design
+
+By following these guidelines and consistently practicing, you'll be well-prepared for system design interviews and able to showcase your skills effectively.
 
 
 
@@ -225,20 +297,14 @@ if there is free time/ specified write tests for the project
 ## SQL (for Data Engineers mostly)
 
 
+## Red Flags In Companies: (todo)
+ - asking for home project without doing interview first - it is a sign that they are not respecting your time and they are not serious about hiring you.
+ - not showing up on zoom when they scheduled the interview - it is a sign that they are not respecting your time and they are not serious about hiring you.
+ - making the interview and not giving all their focus to it
 
-
-
-# how to introduce yourself:
-https://www.techinterviewhandbook.org/self-introduction/
 
 
 # create a plan - for studying and executing coding interviews
-
-
-## How to get started interviews:
-- at first, you will need some warmup interviews - so you can start with companies that you are not interested in but you will get some experience and you will be more prepared for the companies you are interested in.  
-you can just checkout LinkedIn and search for companies that are hiring for your position or using some employment agencies.
-After few interviews you will get better and get confidence, and you can start to search for companies that you are interested in.
 
 
 
@@ -258,21 +324,47 @@ don't be afraid to say no to job offers that you don't like or you think that ar
 
 
 
-
-## off course if you want some advice on your CV you can send me a message and I will be happy to help you.  
-
-
-
-
-
-
-
 # money - related to ctos - there is some ways join whats app groups of job search, ask friends, check salary websites (in your country)
 
 
 # plan your preparation for the interview process
 
-# how to stay motivated:
+# how to stay motivated:???? 
+
+
+
+
+
+## more resources for data engineers:
+    https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
+
+
+
+
+https://www.techinterviewhandbook.org/coding-interview-cheatsheet/
+
+
+links and content I am just adding another layer - so you need to explain everything in your own words!!!!do--
+practise solving this home project in limited time, and then explain your decisions to yourself out loud.
+good projects for practise are:
+build rest api for Library - with books, authors, and users, allow user to borrow books, return books, and see the list of books they borrowed, rate books, and see the list of books they rated.
+implement a simple online shop - with products, categories, users, and orders, allow users to add products to the cart, checkout, and see the list of orders they made.
+the shop have catalog of products and discounts - for each 2 items you will buy you will get one free, there are specific items that 4 of them will cost 100 dollars, implement the logic for the discounts.
+- build data pipeline for async data processing (data engineering) - you will have local folder and when new file will be insert to your folder, and you will need to process it in each step you will need to process it and write it to new folder
+- 
+- to add 2 more exercises
+- add one more for data engineer
+
+Bike rental app
+
+###few important things in the home project - data validation, error handling, code readability, and simplicity of the solution, use configuration, basic logging
+if there is free time/ specified write tests for the project
+
+
+## more resources for data engineers:
+    https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
+
+
 
 
 
@@ -291,3 +383,6 @@ https://www.techinterviewhandbook.org/coding-interview-cheatsheet/
 
 
 links and content I am just adding another layer - so you need to explain everything in your own words!!!!
+
+
+maybe should be only for backend developer?
