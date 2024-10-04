@@ -144,7 +144,7 @@ The VP responded within a day, and I got an interview. This approach worked for 
 - Building confidence:
     - After a few interviews, you'll likely feel more comfortable with the process.
     - As your confidence grows, you can then focus on applying to and interviewing with companies that truly interest you.
--
+
 - Embracing Failures:
     - It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer.
     - Remember, interviewing is a skill that improves with practice and preparation.
