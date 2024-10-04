@@ -1,5 +1,6 @@
 # Data Dev Interview Kit
-[![license](https://img.shields.io/github/license/pydantic/pydantic.svg)](https://github.com/pydantic/pydantic/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/pydantic/pydantic.svg)](LICENSE)
+
 
 A Practical Guide for Junior and Mid-Level Backend Developers and Data Engineers
 This guide is designed for engineers seeking new job opportunities while maximizing efficiency in their job search.
