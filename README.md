@@ -308,8 +308,24 @@ By following these guidelines and consistently practicing, you'll be well-prepar
 
 
 
+## SQL (Primarily for Data Engineers)
 
-## SQL (for Data Engineers mostly) --todo
+SQL is an essential skill for both data engineers and software developers. We frequently write and read data, making SQL proficiency critical. It's also a commonly tested skill in technical job interviews.
+
+## How to Prepare:
+
+- **Solve SQL Problems**: Platforms like LeetCode offer a wide range of SQL problems. Focusing on medium-level questions will provide good practice and cover a broad spectrum of interview topics.
+
+- **Practice Common SQL Tasks**: Be comfortable writing queries for:
+    - Filtering data
+    - Joining tables (inner, outer, left, right joins)
+    - Aggregating data (SUM, COUNT, AVG, etc.)
+    - Writing subqueries
+    - Using window functions
+    - Optimizing performance with indexes
+    - Writing complex queries that solve real-world business problems
+
+- **Break Down Complex Queries**: When writing complex SQL queries, it's helpful to plan out the steps needed to achieve the result. Breaking down the logic into smaller steps, then writing the query incrementally, can make it easier to check your work and avoid errors.
 
 
 
