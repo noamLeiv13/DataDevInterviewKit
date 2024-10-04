@@ -306,6 +306,19 @@ I strongly recommend exploring [interviewing.io website](https://interviewing.io
     - URL shortener
     - Social media platform (e.g., Instagram)
     - Chat application
+    - (Data engineer) Design a pipeline that processes 30-second batches of IoT sensor data and writes them to S3 in a device-specific folder. Ensure the system handles large data volumes, scales efficiently, and preserves the order of the data.
+
+      **Requirements**:
+  
+      1.**Scalability**: Handle increasing data volume and devices.
+      
+      2.**Data Ordering**: Preserve the order of time-sensitive sensor data.
+      
+      3.**Device-Specific Storage**: Write data to unique S3 folders per device.
+      **Considerations**:
+      - How to scale the pipeline?
+      - How to maintain data order?
+  
 - For each design, thoroughly explain:
     - Database structure
     - Microservice architecture
