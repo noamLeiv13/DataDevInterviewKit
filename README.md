@@ -247,8 +247,6 @@ Most of the time, after this initial phase, I feel much better about the problem
 ### Additional Resources:
 - [Tech Interview Handbook: Coding Interview Techniques](https://www.techinterviewhandbook.org/coding-interview-techniques/)
 
-#### to see what the difference between system design and coding interview is
-
 
 ## Home project:
 some of the companies will ask you to do a home project. home project is very different from programing in real life so there are few adjustments that need to be done
@@ -300,7 +298,7 @@ good projects for practise are:
 
 
 ## System Design
-I strongly recommend exploring https://interviewing.io/guides/system-design-interview for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
+I strongly recommend exploring [interviewing.io guide](https://interviewing.io/guides/system-design-interview) for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
 
 ## How to Prepare:
 - Design a system for a specific use case, such as:
