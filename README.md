@@ -1,10 +1,8 @@
 # Data Dev Interview Kit
 [![license](https://img.shields.io/github/license/pydantic/pydantic.svg)](https://github.com/pydantic/pydantic/blob/main/LICENSE)
 
-Guide for backend developers and data engineers with around 2-6 years of
-experience who are seeking new job opportunities and want to do so efficiently. It is
-designed for those who may lack experience with coding interviews or feel that they are
-not good at them.
+A Practical Guide for Junior and Mid-Level Backend Developers and Data Engineers
+This guide is designed for engineers seeking new job opportunities while maximizing efficiency in their job search. It’s specifically for those who may feel inexperienced with coding interviews or lack confidence in their interview skills.
 
 
 
