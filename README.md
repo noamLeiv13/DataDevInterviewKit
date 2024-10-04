@@ -10,7 +10,10 @@ not good at them.
 
 ## Overview of the Interview Process
 - **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
+- **[Create a Plan](#create-a-plan)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
 - **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
+- **[How to Find Relevant Companies](#how-to-find-relevant-companies)**: Strategies for identifying companies that are hiring for your position.
+- **[How to Get Job Interviews](#how-to-get-job-interviews)**: Steps to increase your chances of securing interviews once you've identified relevant companies.
 - **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
 - **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
 - **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
@@ -60,31 +63,21 @@ These considerations will help you find a company that aligns with your personal
 
 
 
-## How to find relevant companies:
-- Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
-- Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
-  - you cannot filter by companies that are actively hiring for specific job, but it will let you expose to more companies based on your filter and some of them will have open positions .
-- Use HR agencies to find companies that are hiring for your position.
-- Join to whatsapp or facebook groups for job search
-  Data Engineering Jobs:
-      [Data Engineering jobs whatsapp](https://chat.whatsapp.com/G2zuK91zewGLRCJqjPvMi6)
-- Set job recommendation daily mail via linkedin
-- Ask friends that are currently working in companies - why chose their company and if they are hiring for a position that matches your skills.
-- Read about domain you are interested in and find companies that are working in this domain - biotech, fintech, blockchain, cybersecurity, etc.
+# Create a Plan
 
+Looking for a job can be filled with uncertainties and stress. To alleviate this, it was helpful for me to create a structured plan that outlined how much time I wanted to dedicate to interview preparation and how much time I wanted to spend on my job search.
 
-## How to get job interviews:
-Once you've identified relevant companies that are hiring for your position, the next step is getting an interview. Here are some strategies to help you with that:
-1. **Leverage LinkedIn Connections**: Start by checking if you have any existing connections at the company. If you do, reach out and ask if they can refer you for the position. Employee referrals can significantly boost your chances of getting noticed.
+By setting clear goals, I was able to focus my efforts without constantly second-guessing whether I was studying enough for interviews or applying to enough positions. This approach provided me with a sense of control and allowed me to engage in other activities without feeling overwhelmed by uncertainty.
 
-2. **Connect with Company Employees**: If you don't have a direct connection, try reaching out to people within the company, ideally those in leadership or management roles (e.g., VP R&D, CTO, Team Leader). Send a personalized message, expressing your interest in the position and asking for insights into the hiring process.
-3. Submit your application through the company website or via LinkedIn
-### Example from My Experience:
-I was interested in an Israeli healthcare company but couldn’t get an interview through the traditional application process. I decided to send a connection request to the company’s VP of R&D with a short message:  
-_"Hi, I’m a Data Engineer with 4 years of experience. A week ago, I applied for a Data Engineering position on your website, but I haven’t heard back. I’ve attached my CV. Could you please check if my application was received?"_
-The VP responded within a day, and I got an interview. This approach worked for me several times—directly reaching out led to interviews in multiple cases.
+To effectively track and plan your job search, consider the following steps:
 
+1. **Determine Time Allocation**: Decide how much time you are willing to dedicate to job searching versus interview preparation.
 
+2. **Set Weekly Goals**: Establish specific weekly targets for the number of job applications you want to submit and the number of interviews you hope to secure.
+
+3. **Plan Preparation Hours**: Define the amount of time you want to spend preparing for interviews each week.
+
+Creating this system will not only help you stay organized but will also enhance your confidence as you navigate the job search process.
 
 
 # How to Create a CV
@@ -120,6 +113,31 @@ I have included my CV as a reference (not perfect, but designed based on these g
 
 
 
+## How to find relevant companies:
+- Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
+- Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
+    - you cannot filter by companies that are actively hiring for specific job, but it will let you expose to more companies based on your filter and some of them will have open positions .
+- Use HR agencies to find companies that are hiring for your position.
+- Join to whatsapp or facebook groups for job search
+  Data Engineering Jobs:
+  [Data Engineering jobs whatsapp](https://chat.whatsapp.com/G2zuK91zewGLRCJqjPvMi6)
+- Set job recommendation daily mail via linkedin
+- Ask friends that are currently working in companies - why chose their company and if they are hiring for a position that matches your skills.
+- Read about domain you are interested in and find companies that are working in this domain - biotech, fintech, blockchain, cybersecurity, etc.
+
+
+## How to get job interviews:
+Once you've identified relevant companies that are hiring for your position, the next step is getting an interview. Here are some strategies to help you with that:
+1. **Leverage LinkedIn Connections**: Start by checking if you have any existing connections at the company. If you do, reach out and ask if they can refer you for the position. Employee referrals can significantly boost your chances of getting noticed.
+
+2. **Connect with Company Employees**: If you don't have a direct connection, try reaching out to people within the company, ideally those in leadership or management roles (e.g., VP R&D, CTO, Team Leader). Send a personalized message, expressing your interest in the position and asking for insights into the hiring process.
+3. Submit your application through the company website or via LinkedIn
+### Example from My Experience:
+I was interested in an Israeli healthcare company but couldn’t get an interview through the traditional application process. I decided to send a connection request to the company’s VP of R&D with a short message:  
+_"Hi, I’m a Data Engineer with 4 years of experience. A week ago, I applied for a Data Engineering position on your website, but I haven’t heard back. I’ve attached my CV. Could you please check if my application was received?"_
+The VP responded within a day, and I got an interview. This approach worked for me several times—directly reaching out led to interviews in multiple cases.
+
+
 ## How to Get Started with Interviews
 
 - Begin with warm-up interviews:
@@ -132,7 +150,7 @@ I have included my CV as a reference (not perfect, but designed based on these g
 
 
 ## Failures:
-It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer. Interviewing is a skill that improves with practice and preparation. 
+It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer. Interviewing is a skill that improves with practice and preparation.
 
 
 ## Questions to Evaluate Team and Company Fit:
@@ -362,7 +380,3 @@ I found this video helpful in understanding how salary negotiations work, what t
 
 ## more resources for data engineers: --need to be removed
     https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
-
-
-# create a plan - for studying and executing coding interviews --todo
-
