@@ -306,7 +306,7 @@ I strongly recommend exploring [interviewing.io website](https://interviewing.io
     - URL shortener
     - Social media platform (e.g., Instagram)
     - Chat application
-    - (Data engineer) Design a pipeline that processes 30-second batches of IoT sensor data and writes them to S3 in a device-specific folder. Ensure the system handles large data volumes, scales efficiently, and preserves the order of the data.
+    - (Data Engineer) Design a pipeline that processes 30-second batches of IoT sensor data and writes them to S3 in a device-specific folder. Ensure the system handles large data volumes, scales efficiently, and preserves the order of the data.
 
       **Requirements**:
   
