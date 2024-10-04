@@ -22,28 +22,7 @@ Understanding the distinctions between these roles is essential to focus your pr
     - [Backend Engineer vs. Data Engineer](https://blog.boot.dev/backend/backend-engineer-vs-data-engineer/)
     - [Understanding the Role of a BI Developer](https://www.simplilearn.com/bi-developer-article)
 
-
-
-
-## Company Type
-Once you understand the type of job you are looking for, it’s essential to consider your ideal company size: small startup, mid-sized company, or large corporation.
-it will influence the tasks you'll work on and the impact you’ll have on the product.
-In larger companies, you’ll benefit from the expertise and structured processes of established organizations, while in small startups, the focus is often on speed and rapid feedback.
-Your decision will affect the variety of tasks you'll encounter and the overall influence you’ll have on the product's development.
-
-## What to Consider When Choosing a Company
-When considering a company, several factors play a significant role in your decision-making process.
-- Company size: Do you prefer a small startup, mid-sized company, or large corporation?
-- Work-life balance: Do you want to work 9-5 or are you willing to work long hours?
-- Global usage: Do you want to work on a project that is used globally?
-- Technologies: Do you want to work with a wide variety of technologies?
-- Salary: What is the salary range you are looking for?
-- Location: How important is the location of the company to you?
-- Average age of employees: do you want to work with people of your age, or you don't care about that
-- Domain: do you want to work in a specific domain (healthcare, finance, etc.)
-
-
-
+    
 
 ## Choosing the Right Company Size
 
