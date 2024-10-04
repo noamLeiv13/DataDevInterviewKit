@@ -7,16 +7,23 @@ designed for those who may lack experience with coding interviews or feel that t
 not good at them.
 
 
-## How to start?
-I think one of the most important things is to understand what type of job you are looking for:
-Backend Engineer, Data Engineer, BI Developer, or DevOps Engineer.
-This decision will affect the companies you will apply to and the technologies you will need to learn in the interview process.
-it is important to understand the differences between the two roles so you can focus on the right things.
 
-Consider speaking with friends or friends of friends who work in these positions. Additionally,
-you can read more about the differences between the roles in these articles:
-https://blog.boot.dev/backend/backend-engineer-vs-data-engineer/
-https://www.simplilearn.com/bi-developer-article
+## How to Start Your Job Search
+
+One of the most crucial steps in beginning your job search is to identify the specific role you're targeting. Are you interested in becoming a Backend Engineer, Data Engineer, BI (Business Intelligence) Developer, or DevOps Engineer? This decision will influence your career and your job search:
+
+1. The types of companies you'll apply to
+2. The technologies and skills you'll need to master for the interview process
+
+Understanding the distinctions between these roles is essential to focus your preparation efforts effectively. To gain insights into these positions, consider:
+
+- Reaching out to friends or acquaintances who work in these roles for first-hand information
+- Reading articles that compare different tech positions, such as:
+    - [Backend Engineer vs. Data Engineer](https://blog.boot.dev/backend/backend-engineer-vs-data-engineer/)
+    - [Understanding the Role of a BI Developer](https://www.simplilearn.com/bi-developer-article)
+
+
+
 
 ## Company Type
 Once you understand the type of job you are looking for, it’s essential to consider your ideal company size: small startup, mid-sized company, or large corporation.
@@ -24,7 +31,7 @@ it will influence the tasks you'll work on and the impact you’ll have on the p
 In larger companies, you’ll benefit from the expertise and structured processes of established organizations, while in small startups, the focus is often on speed and rapid feedback.
 Your decision will affect the variety of tasks you'll encounter and the overall influence you’ll have on the product's development.
 
-
+## What to Consider When Choosing a Company
 When considering a company, several factors play a significant role in your decision-making process.
 - Company size: Do you prefer a small startup, mid-sized company, or large corporation?
 - Work-life balance: Do you want to work 9-5 or are you willing to work long hours?
@@ -34,6 +41,31 @@ When considering a company, several factors play a significant role in your deci
 - Location: How important is the location of the company to you?
 - Average age of employees: do you want to work with people of your age, or you don't care about that
 - Domain: do you want to work in a specific domain (healthcare, finance, etc.)
+
+
+
+
+## Choosing the Right Company Size
+
+Once you've identified the type of job you're after, the next step is figuring out your ideal company size. Whether it's a small startup, a growing mid-sized company, or a massive corporation, each option offers a unique work environment. At large companies, you'll enjoy access to established processes, specialized roles, and experienced mentors. On the flip side, startups often move fast, prioritize rapid feedback, and give you a broader range of responsibilities. Your choice will influence not only the kind of tasks you take on but also how much of an impact you’ll have on the product’s overall direction.
+
+## What to Consider When Choosing a Company
+
+When evaluating potential employers, it's essential to think about more than just the company size. Here are several other factors that could shape your decision:
+- **Work-life balance**: Do you want to work 9-5 or are you willing to work long hours?
+- **Global impact**: Do you want to work on a project that is used globally?
+- **Technologies**: Do you enjoy working with a wide array of tech stacks, or are you looking to specialize?
+- **Salary**: What is the salary range you are looking for?
+- **Location**: Is working close to home important to you?
+- **Average age of employees**: do you want to work with people of your age, or you don't care about that
+- **Industry focus**: Are you passionate about specific sectors like healthcare, finance, or others?
+
+These considerations will help you find a company that aligns with your personal and professional goals.
+
+
+
+
+
 
 ## How to find relevant companies:
 - Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
@@ -99,8 +131,8 @@ I have included my CV as a reference (not perfect, but designed based on these g
 - **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
 - **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
 - **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
-- **Meeting with senior management**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
-- **Reference check**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
+- **[Meeting with senior management]()**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
+- **[Reference check]()**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
 - **[Offer stage](#salary-negotiation)**:  will receive a offer with the salary, benefits, and other employment conditions.
 
 ***Important Note***: Before each technical interview, ask about the interview format. This will help you understand what to expect and how to best prepare.
@@ -123,7 +155,7 @@ The interview process can change between companies and positions, but generally,
 It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer. Interviewing is a skill that improves with practice and preparation. 
 
 
-## Questions to Ask During the interview process:
+## Questions to Evaluate Team and Company Fit:
 When interviewing, I like to ask the following questions to gather more information about the company and the team:
 - What is the team size?
 - Who would you describe as the ideal team member?
@@ -315,7 +347,7 @@ By following these guidelines and consistently practicing, you'll be well-prepar
 
 ## How to Measure if a Job is a Good Fit for You
 
-At the start of your interview process, ask yourself [these questions](#company-type) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll uncover insights that may not be included in the job description.
+At the start of your interview process, ask yourself [these questions](#company-type) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll get insights that may not be included in the job description.
 
 You’ll gain understanding from the expectations of the team leader, questions about the product, and whether the product genuinely interests you. You can also assess the team leader's management style. Pay attention to the dynamics among team members and whether the workplace environment feels welcoming. Consider factors like company flexibility, the use of modern technologies, and the specific tech stack.
 
