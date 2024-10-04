@@ -10,7 +10,7 @@ not good at them.
 
 ## Overview of the Interview Process
 - **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
-- **[Create a Plan](#create-a-plan)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
+- **[Designing a Winning Strategy](#designing-a-winning-strategy)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
 - **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
 - **[Discovering Companies That Match Your Goals](#discovering-companies-that-match-your-goals)**: Strategies for identifying companies that align with your goals and are hiring for your position.
 - **[How to Get Job Interviews](#how-to-get-job-interviews)**: Steps to increase your chances of securing interviews once you've identified relevant companies.
@@ -41,7 +41,7 @@ Understanding the distinctions between these roles is essential to focus your pr
     - [Backend Engineer vs. Data Engineer](https://blog.boot.dev/backend/backend-engineer-vs-data-engineer/)
     - [Understanding the Role of a BI Developer](https://www.simplilearn.com/bi-developer-article)
 
-    
+
 
 ## Choosing the Right Company Size
 
@@ -63,7 +63,7 @@ These considerations will help you find a company that aligns with your personal
 
 
 
-# Create a Plan
+# Designing a Winning Strategy
 
 Looking for a job can be filled with uncertainties and stress. To alleviate this, it was helpful for me to create a structured plan that outlined how much time I wanted to dedicate to interview preparation and how much time I wanted to spend on my job search.
 
@@ -81,7 +81,7 @@ Creating this system will not only help you stay organized but will also enhance
 
 
 # How to Create a CV
-Use a template to create your CV, a good option is [CVDesignr](https://cvdesignr.com/en).
+Use a template to create your CV, a good option is [CV Designer](https://cvdesignr.com/en).
 Your CV should include the following sections
 - **Summary**: Write two sentences outlining your professional background, areas of expertise, and what you're seeking in your next opportunity.
 - **Education**: List relevant degrees, certifications, or courses that highlight your technical expertise.
@@ -108,9 +108,7 @@ Simple and useful tips for creating a CV as a software engineer:
 For additional feedback on your resume, consider using the following AI tool:
 - [AyeHigh Resume Judge](https://ayehigh.com/resume-judge): This tool provides an impression of your CV, identifies relevant topics for the jobs you're targeting, finds grammar mistakes, and gives a score to your CV.
 
-I have included my CV as a reference (not perfect, but designed based on these guidelines).
-
-
+I have included my CV as a reference: [Backend Engineer](CV/Noam_Levi_Backend_Engineer.pdf), [Data Engineer](CV/Noam_Levi_Data_Engineer.pdf). While they may not be perfect, they were created following these guidelines.
 
 
 ## Discovering Companies That Match Your Goals:
@@ -147,7 +145,7 @@ The VP responded within a day, and I got an interview. This approach worked for 
 - Building confidence:
     - After a few interviews, you'll likely feel more comfortable with the process.
     - As your confidence grows, you can then focus on applying to and interviewing with companies that truly interest you.
-- 
+-
 - Embracing Failures:
     - It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer.
     - Remember, interviewing is a skill that improves with practice and preparation.
@@ -377,6 +375,3 @@ Understanding how to negotiate your salary is crucial. It’s important to know 
 
 I found this video helpful in understanding how salary negotiations work, what to expect, and how to prepare: [Salary Negotiation Video](https://www.youtube.com/watch?v=pzq37L4UBUU&t=1094s) (Hebrew).
 
-
-## more resources for data engineers: --need to be removed
-    https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
