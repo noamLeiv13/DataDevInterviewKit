@@ -375,6 +375,3 @@ Understanding how to negotiate your salary is crucial. It’s important to know 
 
 I found this video helpful in understanding how salary negotiations work, what to expect, and how to prepare: [Salary Negotiation Video](https://www.youtube.com/watch?v=pzq37L4UBUU&t=1094s) (Hebrew).
 
-
-## more resources for data engineers: --need to be removed
-    https://medium.com/@nishasreedharan/data-engineer-interview-preparation-complete-guide-98a9d16f6889
