@@ -356,7 +356,7 @@ SQL is an essential skill for both data engineers and software developers. We fr
 
 ## How to Measure if a Job is a Good Fit for You
 
-At the start of your interview process, ask yourself [these questions](#company-type) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll get insights that may not be included in the job description.
+At the start of your interview process, ask yourself [these questions](#what-to-consider-when-choosing-a-company) to establish parameters that will help you determine if the job is a good fit. However, this is just the beginning. As you interview with the company, you’ll get insights that may not be included in the job description.
 
 You’ll gain understanding from the expectations of the team leader, questions about the product, and whether the product genuinely interests you. You can also assess the team leader's management style. Pay attention to the dynamics among team members and whether the workplace environment feels welcoming. Consider factors like company flexibility, the use of modern technologies, and the specific tech stack.
 
