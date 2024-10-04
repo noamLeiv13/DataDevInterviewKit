@@ -10,7 +10,7 @@ not good at them.
 
 ## Overview of the Interview Process
 - **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
-- **[Create a Plan](#create-a-plan)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
+- **[Designing a Winning Strategy](#designing-a-winning-strategy)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
 - **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
 - **[Discovering Companies That Match Your Goals](#discovering-companies-that-match-your-goals)**: Strategies for identifying companies that align with your goals and are hiring for your position.
 - **[How to Get Job Interviews](#how-to-get-job-interviews)**: Steps to increase your chances of securing interviews once you've identified relevant companies.
@@ -63,7 +63,7 @@ These considerations will help you find a company that aligns with your personal
 
 
 
-# Create a Plan
+# Designing a Winning Strategy
 
 Looking for a job can be filled with uncertainties and stress. To alleviate this, it was helpful for me to create a structured plan that outlined how much time I wanted to dedicate to interview preparation and how much time I wanted to spend on my job search.
 
