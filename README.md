@@ -8,6 +8,22 @@ not good at them.
 
 
 
+## Overview of the Interview Process
+- **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
+- **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
+- **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
+- **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
+- **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
+- **[Meeting with senior management]()**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
+- **[Reference check]()**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
+- **[Offer stage](#salary-negotiation)**:  will receive a offer with the salary, benefits, and other employment conditions.
+
+***Important Note***: Before each technical interview, ask about the interview format. This will help you understand what to expect and how to best prepare.
+
+The interview process can change between companies and positions, but generally, you’ll experience a phone call with HR, one or two technical interviews, and possibly a take-home assignment.
+
+
+
 ## How to Start Your Job Search
 
 One of the most crucial steps in beginning your job search is to identify the specific role you're targeting. Are you interested in becoming a Backend Engineer, Data Engineer, BI (Business Intelligence) Developer, or DevOps Engineer? This decision will influence your career and your job search:
@@ -40,8 +56,6 @@ When evaluating potential employers, it's essential to think about more than jus
 - **Industry focus**: Are you passionate about specific sectors like healthcare, finance, or others?
 
 These considerations will help you find a company that aligns with your personal and professional goals.
-
-
 
 
 
@@ -104,19 +118,6 @@ For additional feedback on your resume, consider using the following AI tool:
 I have included my CV as a reference (not perfect, but designed based on these guidelines).
 
 
-
-## Overview of the Interview Process
-
-- **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
-- **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
-- **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
-- **[Meeting with senior management]()**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
-- **[Reference check]()**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
-- **[Offer stage](#salary-negotiation)**:  will receive a offer with the salary, benefits, and other employment conditions.
-
-***Important Note***: Before each technical interview, ask about the interview format. This will help you understand what to expect and how to best prepare.
-
-The interview process can change between companies and positions, but generally, you’ll experience a phone call with HR, one or two technical interviews, and possibly a take-home assignment.
 
 
 ## How to Get Started with Interviews
