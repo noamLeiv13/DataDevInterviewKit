@@ -208,7 +208,7 @@ In my experience, most phone interviews involve coding, and occasionally, basic 
 
 **How to Prepare:**
 - Make sure you are fluent in at least one programming language.
-- Practice coding problems on platforms like [LeetCode](https://leetcode.com/), focusing on arrays, strings, sorting, and hashmaps.
+- Practice coding problems on platforms like [LeetCode](https://leetcode.com), focusing on arrays, strings, sorting, and hashmaps.
 - Review basic system design concepts: understand when to use SQL databases, document databases, key-value stores, and when to use a queue vs pub/sub.
 
 
@@ -218,7 +218,7 @@ Coding interviews typically involve solving coding problems on a shared code edi
 
 **How to Prepare:**
 - Make sure you are fluent in at least one programming language - make sure you can implement in the language your design implementation fast without using google.
-- Practise solving coding problems on platforms like [LeetCode](https://leetcode.com/, focusing on arrays, strings, sorting, and hashmaps and explain your thought process.
+- Practise solving coding problems on platforms like [LeetCode](https://leetcode.com), focusing on arrays, strings, sorting, and hashmaps and explain your thought process.
 - Practice choosing design for system requirements - choosing appropriate classes, abstractions, and functions to solve the problem, and explain the reasoning behind your decisions. (See more examples of system design questions below.)
 
 
@@ -328,7 +328,7 @@ SQL is an essential skill for both data engineers and software developers. We fr
 
 ## How to Prepare:
 
-- **Solve SQL Problems**: Platforms like [LeetCode](https://leetcode.com/ offer a wide range of SQL problems. Focusing on medium-level questions will provide good practice and cover a broad spectrum of interview topics.
+- **Solve SQL Problems**: Platforms like [LeetCode](https://leetcode.com) offer a wide range of SQL problems. Focusing on medium-level questions will provide good practice and cover a broad spectrum of interview topics.
 
 - **Practice Common SQL Tasks**: Be comfortable writing queries for:
     - Filtering data
