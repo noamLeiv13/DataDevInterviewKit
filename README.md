@@ -108,8 +108,7 @@ Simple and useful tips for creating a CV as a software engineer:
 For additional feedback on your resume, consider using the following AI tool:
 - [AyeHigh Resume Judge](https://ayehigh.com/resume-judge): This tool provides an impression of your CV, identifies relevant topics for the jobs you're targeting, finds grammar mistakes, and gives a score to your CV.
 
-I have included my CV as a reference (not perfect, but designed based on these guidelines).
-
+I have included my CV as a reference: [Backend Engineer](CV/Noam_Levi_Backend_Engineer.pdf), [Data Engineer]((CV/Noam_Levi_Data_Engineer.pdf)). While they may not be perfect, they were created following these guidelines.
 
 
 
