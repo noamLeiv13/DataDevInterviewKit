@@ -12,7 +12,7 @@ not good at them.
 - **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
 - **[Create a Plan](#create-a-plan)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
 - **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
-- **[How to Find Relevant Companies](#how-to-find-relevant-companies)**: Strategies for identifying companies that are hiring for your position.
+- **[Discovering Companies That Match Your Goals](#discovering-companies-that-match-your-goals)**: Strategies for identifying companies that align with your goals and are hiring for your position.
 - **[How to Get Job Interviews](#how-to-get-job-interviews)**: Steps to increase your chances of securing interviews once you've identified relevant companies.
 - **[Phone call with HR](#phone-call-with-hr)**: Typically covers your background, interest in the position, and sometimes salary expectations.
 - **[Phone interview](#phone-interview)**: Focuses primarily on coding, and occasionally on system design (though not in all companies).
@@ -113,10 +113,10 @@ I have included my CV as a reference (not perfect, but designed based on these g
 
 
 
-## How to find relevant companies:
+## Discovering Companies That Match Your Goals:
 - Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
 - Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
-    - you cannot filter by companies that are actively hiring for specific job, but it will let you expose to more companies based on your filter and some of them will have open positions .
+    - you cannot filter by companies that are actively hiring for specific job, it will allow you to be exposed to more companies based on your filter and some of them will have open positions .
 - Use HR agencies to find companies that are hiring for your position.
 - Join to whatsapp or facebook groups for job search
   Data Engineering Jobs:
