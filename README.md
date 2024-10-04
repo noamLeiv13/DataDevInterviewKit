@@ -298,7 +298,7 @@ good projects for practise are:
 
 
 ## System Design
-I strongly recommend exploring [interviewing.io guide](https://interviewing.io/guides/system-design-interview) for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
+I strongly recommend exploring [interviewing.io website](https://interviewing.io/guides/system-design-interview) for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
 
 ## How to Prepare:
 - Design a system for a specific use case, such as:
