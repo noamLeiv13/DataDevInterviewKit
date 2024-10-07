@@ -7,6 +7,16 @@ This guide is designed for engineers seeking new job opportunities while maximiz
 It’s specifically for those who may feel inexperienced with coding interviews or lack confidence in their interview skills.
 
 
+<details>
+<summary>About me</summary>
+
+After four years as a Platform Engineer / Data Engineer, I completed my military service and began searching for a Software Engineer position in health tech companies. I quickly realized that the interview process differed significantly from my day-to-day work and the interviews I had conducted in the military. Additionally, I started my job search during a period of market uncertainty.
+
+I reached out to friends in the industry and participated in several interviews. Through this process, I discovered that certain adjustments were necessary to become a strong candidate for backend and data engineering roles. After approximately a month and a half of interviewing, I received multiple job offers and ultimately chose a position at a small startup in the Pharmaco-Clinical Intelligence field.
+
+This experience inspired me to create this guide, aiming to help others navigate the challenges I faced during my job search and interview process.
+
+</details>
 
 ## Overview of the Interview Process
 - **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company - such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
