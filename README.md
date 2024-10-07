@@ -250,10 +250,11 @@ Most of the time, after this initial phase, I feel much better about the problem
 
 
 ## Home project:
-some of the companies will ask you to do a home project. home project is very different from programing in real life so there are few adjustments that need to be done
-you have limited time to do the project so you need to focus first on creating something that works, and then you can improve it.
-it is tempting to use git, add tests and other great practices you are doing in your day-to-day work, but it is not the goal of the home project.
-The company want to see that you can create something that works and that you can write code that is easy to read and understand.
+Some of the companies will ask you to do a home project. It's important to understand that this type of project differs from real-world programming, so a few adjustments are necessary.
+Since you'll have limited time to complete the project focus on building something that works first. Once that's done, you can make improvements. While it may be tempting to use Git,
+write tests, and follow other best practices you use in your day-to-day work, remember that these aren't the main objectives of the project.
+The company is primarily interested in seeing that you can deliver functional code that is easy to read and understand.
+
 
 key points for home project:
 - make sure you understand the requirements and if something is not clear ask the interviewer (it can save your interview).
