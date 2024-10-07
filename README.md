@@ -9,7 +9,7 @@ It’s specifically for those who may feel inexperienced with coding interviews 
 
 
 ## Overview of the Interview Process
-- **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company—such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
+- **[Identifying the Right Role and Priorities](#how-to-start-your-job-search)**: Before starting your job search, define what matters to you in a role and company - such as culture, technologies, location, and work-life balance. Knowing your priorities will help you focus on the right opportunities
 - **[Designing a Winning Strategy](#designing-a-winning-strategy)**: Create a structured plan with clear goals for job applications and interview preparation to stay organized and focused throughout your search.
 - **[Create CV](#how-to-create-a-cv)**: A well-structured CV is essential to showcase your skills and experience effectively. Adjust your CV to the job you are applying for by highlighting relevant skills, projects, and achievements.
 - **[Discovering Companies That Match Your Goals](#discovering-companies-that-match-your-goals)**: Strategies for identifying companies that align with your goals and are hiring for your position.
@@ -133,7 +133,7 @@ Once you've identified relevant companies that are hiring for your position, the
 ### Example from My Experience:
 I was interested in an Israeli healthcare company but couldn’t get an interview through the traditional application process. I decided to send a connection request to the company’s VP of R&D with a short message:  
 _"Hi, I’m a Data Engineer with 4 years of experience. A week ago, I applied for a Data Engineering position on your website, but I haven’t heard back. I’ve attached my CV. Could you please check if my application was received?"_
-The VP responded within a day, and I got an interview. This approach worked for me several times—directly reaching out led to interviews in multiple cases.
+The VP responded within a day, and I got an interview. This approach worked for me several times - directly reaching out led to interviews in multiple cases.
 
 
 ## How to Get Started with Interviews
@@ -147,7 +147,7 @@ The VP responded within a day, and I got an interview. This approach worked for 
     - As your confidence grows, you can then focus on applying to and interviewing with companies that truly interest you.
 
 - Embracing Failures:
-    - It's okay to fail in multiple interviews — this doesn't reflect your abilities as a software engineer.
+    - It's okay to fail in multiple interviews - this doesn't reflect your abilities as a software engineer.
     - Remember, interviewing is a skill that improves with practice and preparation.
 
 
