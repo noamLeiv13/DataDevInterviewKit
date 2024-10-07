@@ -19,7 +19,7 @@ It’s specifically for those who may feel inexperienced with coding interviews 
 - **[Technical interviews](#coding-interviews--white-board-interviews)**: Primarily coding-based, with the possibility of system design questions or a home project.
 - **[Meeting with senior management]()**: Often involves discussions on system design or the company’s long-term strategy, as well as an assessment of cultural fit.
 - **[Reference check]()**: They will contact 2-3 previous managers or colleagues. Only provide references you are confident will speak positively about you.
-- **[Offer stage](#salary-negotiation)**:  will receive a offer with the salary, benefits, and other employment conditions.
+- **[Offer stage](#negotiating-like-a-pro)**:  will receive a offer with the salary, benefits, and other employment conditions.
 
 ***Important Note***: Before each technical interview, ask about the interview format. This will help you understand what to expect and how to best prepare.
 
