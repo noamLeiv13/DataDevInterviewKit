@@ -378,7 +378,7 @@ Additionally, consider practical aspects like your commute to the office and the
 
 Don’t be afraid to decline job offers that don’t align with your initial parameters or that leave you feeling uncertain about your fit within the company.
 
-## Salary Negotiation
+## Negotiating Like a Pro
 
 To negotiate effectively, start by researching the average salary for your position in your location and industry. Reach out to friends or colleagues with similar experience for insights.
 
