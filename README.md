@@ -46,7 +46,7 @@ Understanding the distinctions between these roles is essential to focus your pr
 ## Choosing the Right Company Size
 
 Once you've identified the type of job you want, the next step is figuring out your ideal company size. Whether it's a small startup, a growing mid-sized company, or a massive corporation, each option offers a unique work environment. At large companies, you'll enjoy access to established processes, specialized roles, and experienced mentors. On the flip side, startups often move fast, prioritize rapid feedback, and give you a broader range of responsibilities. Your choice will influence not only the kind of tasks you take on but also how much of an impact you’ll have on the product’s overall direction.
-
+I found these questions particularly useful during my own job search
 ## What to Consider When Choosing a Company
 
 When evaluating potential employers, it's essential to think about more than just the company size. Here are several other factors that could shape your decision:
@@ -58,7 +58,7 @@ When evaluating potential employers, it's essential to think about more than jus
 - **Average age of employees**: do you want to work with people of your age, or you don't care about that
 - **Industry focus**: Are you passionate about specific sectors like healthcare, finance, or others?
 
-These considerations will help you find a company that aligns with your personal and professional goals.
+These considerations will help you find a company that aligns with your personal and professional goals. these questions were helpful in guiding me toward roles and organizations that matched my aspirations.
 
 
 
@@ -81,7 +81,7 @@ Creating this system will not only help you stay organized but will also enhance
 
 
 # How to Create a CV
-Use a template to create your CV, a good option is [CV Designer](https://cvdesignr.com/en).
+Use a template to create your CV, this will allow you to focus primarily on the content rather than the design. A good option is [CV Designer](https://cvdesignr.com/en).
 Your CV should include the following sections
 - **Summary**: Write two sentences outlining your professional background, areas of expertise, and what you're seeking in your next opportunity.
 - **Education**: List relevant degrees, certifications, or courses that highlight your technical expertise.
@@ -112,14 +112,14 @@ I have included my CV as a reference: [Backend Engineer](CV/Noam_Levi_Backend_En
 
 
 ## Discovering Companies That Match Your Goals:
-- Ask friends that are currently working in companies - why chose their company and if they are hiring for a position that matches your skills.
+- Ask friends that are currently working in companies - why they chose their company and if they are hiring for a position that matches your skills.
 - Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
 - Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
     - you cannot filter by companies that are actively hiring for specific job, it will allow you to be exposed to more companies based on your filter and some of them will have open positions .
-- Join to whatsapp or facebook groups for job search
+- These groups can sometimes provide job leads that may not be easy to find on LinkedIn or other platforms.
   Data Engineering Jobs:
   [Data Engineering jobs whatsapp](https://chat.whatsapp.com/G2zuK91zewGLRCJqjPvMi6)
-- Set job recommendation daily mail via linkedin
+- Set job recommendation daily mail via Linkedin. This will allow you to receive job suggestions based on your profile each day
 - Read about domain you are interested in and find companies that are working in this domain - biotech, fintech, blockchain, cybersecurity, etc.
 - Use HR agencies to find companies that are hiring for your position.
 
@@ -132,8 +132,8 @@ Once you've identified relevant companies that are hiring for your position, the
 3. Submit your application through the company website or via LinkedIn
 ### Example from My Experience:
 I was interested in an Israeli healthcare company but couldn’t get an interview through the traditional application process. I decided to send a connection request to the company’s VP of R&D with a short message:  
-_"Hi, I’m a Data Engineer with 4 years of experience. A week ago, I applied for a Data Engineering position on your website, but I haven’t heard back. I’ve attached my CV. Could you please check if my application was received?"_
-The VP responded within a day, and I got an interview. This approach worked for me several times - directly reaching out led to interviews in multiple cases.
+_"Hi, I’m a Data Engineer with 4 years of experience. I applied for a Data Engineering position on your website, but I haven’t heard back. I’ve attached my CV. Could you please check if my application was received?"_
+The VP responded within a day, and I got an interview. This approach worked for me several times.
 
 
 ## How to Get Started with Interviews
@@ -208,8 +208,8 @@ In my experience, most phone interviews involve coding, and occasionally, basic 
     - When should you use a queue vs. pub/sub?
 
 **How to Prepare:**
-- Make sure you are fluent in at least one programming language.
-- Practice coding problems on platforms like [LeetCode](https://leetcode.com), focusing on arrays, strings, sorting, and hashmaps.
+- Make sure you are fluent in at least one programming language, allows you to write code quickly and efficiently during a coding interview with time limitations, helping you focus on problem-solving rather than syntax.
+- Practice coding problems on platforms like [LeetCode](https://leetcode.com), as most interviews will focus on arrays, strings, sorting, and hashmaps.
 - Review basic system design concepts: understand when to use SQL databases, document databases, key-value stores, and when to use a queue vs pub/sub.
 
 
@@ -218,8 +218,8 @@ In my experience, most phone interviews involve coding, and occasionally, basic 
 Coding interviews typically involve solving coding problems on a shared code editor or a whiteboard. The interviewer will ask you to solve a problem and explain your thought process as you go.
 
 **How to Prepare:**
-- Make sure you are fluent in at least one programming language - make sure you can implement in the language your design implementation fast without using google.
-- Practise solving coding problems on platforms like [LeetCode](https://leetcode.com), focusing on arrays, strings, sorting, and hashmaps and explain your thought process.
+- Make sure you are fluent in at least one programming language - make sure you can implement in the language your design implementation fast without using google, will be important in interviews with time limitations.
+- Practise solving coding problems on platforms like [LeetCode](https://leetcode.com), as most interviews will focus on arrays, strings, sorting, and hashmaps. Additionally, make sure to explain your thought process while solving problems, as this helps the interviewer understand your direction and can guide you in some cases.
 - Practice choosing design for system requirements - choosing appropriate classes, abstractions, and functions to solve the problem, and explain the reasoning behind your decisions. (See more examples of system design questions below.)
 
 
@@ -249,6 +249,61 @@ Most of the time, after this initial phase, I feel much better about the problem
 - [Tech Interview Handbook: Coding Interview Techniques](https://www.techinterviewhandbook.org/coding-interview-techniques/)
 
 
+
+## System Design
+I strongly recommend exploring [interviewing.io website](https://interviewing.io/guides/system-design-interview) for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
+
+## How to Prepare:
+- Design a system for a specific use case, such as:
+  - URL shortener
+  - Social media platform (e.g., Instagram)
+  - Chat application
+    - (Data Engineer) Design a pipeline that processes 30-second batches of IoT sensor data and writes them to S3 in a device-specific folder. Ensure the system handles large data volumes, scales efficiently, and preserves the order of the data.
+      Each batch contains data from multiple IoT devices and has the following format:
+
+          [
+            {
+              "device_id": "device_001",
+              "timestamp": "2024-10-06T12:00:00Z",
+              "sensor_data": {
+                "temperature": 22.5,
+                "humidity": 45.6
+              }
+            }
+          ]
+
+      **Requirements**:
+
+      1.**Scalability**: Handle increasing data volume and devices.
+
+      2.**Data Ordering**: Preserve the order of time-sensitive sensor data.
+
+      3.**Device-Specific Storage**: Write data to unique S3 folders per device.
+      **Considerations**:
+      - How to scale the pipeline?
+      - How to maintain data order?
+
+- For each design, thoroughly explain:
+  - Database structure
+  - Microservice architecture
+  - API design
+  - Technology stack choices
+  - Scalability considerations
+  - Performance optimization strategies
+
+### Develop Communication Skills
+Strong communication skills are crucial in technical interviews and teamwork. Practicing how to explain your designs clearly allows you to convey complex ideas. 
+Being prepared to discuss trade-offs and your decision-making process demonstrates your analytical thinking and problem-solving abilities.
+Additionally, showing an understanding of both technical and non-technical aspects of system design.
+
+
+- Practice explaining your designs clearly and concisely
+- Be prepared to discuss trade-offs and decision-making processes
+- Demonstrate an understanding of both technical and non-technical aspects of system design
+
+By following these guidelines and consistently practicing, you'll be well-prepared for system design interviews and able to showcase your skills effectively.
+
+
 ## Home project:
 Some of the companies will ask you to do a home project. It's important to understand that this type of project differs from real-world programming, so a few adjustments are necessary.
 Since you'll have limited time to complete the project focus on building something that works first. Once that's done, you can make improvements. While it may be tempting to use Git,
@@ -257,12 +312,12 @@ The company is primarily interested in seeing that you can deliver functional co
 
 
 key points for home project:
-- make sure you understand the requirements and if something is not clear ask the interviewer (it can save your interview).
-- focus on creating something that works and then you can improve it.
-- write code that is easy to read and understand.
-- avoid using complex technologies you have limited time.
+- Make sure you understand the requirements and if something is not clear ask the interviewer (it can save your interview).
+- Focus on creating something that works and then you can improve it.
+- Write code that is easy to read and understand.
+- Avoid using complex technologies you have limited time.
 - If you're familiar with a particular coding model (OOP or functional) or libraries that you use frequently, stick with them instead of choosing something that might be a better fit but you're unfamiliar with
--  after the interview you will be asked about your decisions so be prepared to explain why you chose to do things in a specific way.
+-  After the interview you will be asked about your decisions so be prepared to explain why you chose to do things in a specific way.
 
 ## How to Prepare:
 Practice solving home projects within a limited time, and afterward, explain your decisions out loud to yourself.
@@ -296,56 +351,6 @@ good projects for practise are:
 - **Code Readability**: Write clean and understandable code.
 - **Simplicity**: Aim for a straightforward, maintainable solution.
 - **Configuration and Logging**: Use configuration files and implement basic logging.
-
-
-
-## System Design
-I strongly recommend exploring [interviewing.io website](https://interviewing.io/guides/system-design-interview) for guidance on system design interviews. This resource was invaluable during my preparation and provides excellent insights into various aspects of system design.
-
-## How to Prepare:
-- Design a system for a specific use case, such as:
-    - URL shortener
-    - Social media platform (e.g., Instagram)
-    - Chat application
-      - (Data Engineer) Design a pipeline that processes 30-second batches of IoT sensor data and writes them to S3 in a device-specific folder. Ensure the system handles large data volumes, scales efficiently, and preserves the order of the data.
-        Each batch contains data from multiple IoT devices and has the following format:
-
-            [
-              {
-                "device_id": "device_001",
-                "timestamp": "2024-10-06T12:00:00Z",
-                "sensor_data": {
-                  "temperature": 22.5,
-                  "humidity": 45.6
-                }
-              }
-            ]
-
-        **Requirements**:
-  
-        1.**Scalability**: Handle increasing data volume and devices.
-      
-        2.**Data Ordering**: Preserve the order of time-sensitive sensor data.
-      
-        3.**Device-Specific Storage**: Write data to unique S3 folders per device.
-        **Considerations**:
-        - How to scale the pipeline?
-        - How to maintain data order?
-  
-- For each design, thoroughly explain:
-    - Database structure
-    - Microservice architecture
-    - API design
-    - Technology stack choices
-    - Scalability considerations
-    - Performance optimization strategies
-
-### Develop Communication Skills
-- Practice explaining your designs clearly and concisely
-- Be prepared to discuss trade-offs and decision-making processes
-- Demonstrate an understanding of both technical and non-technical aspects of system design
-
-By following these guidelines and consistently practicing, you'll be well-prepared for system design interviews and able to showcase your skills effectively.
 
 
 
