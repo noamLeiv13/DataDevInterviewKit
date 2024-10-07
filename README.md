@@ -113,7 +113,7 @@ I have included my CV as a reference: [Backend Engineer](CV/Noam_Levi_Backend_En
 
 ## Discovering Companies That Match Your Goals:
 - Ask friends that are currently working in companies - why they chose their company and if they are hiring for a position that matches your skills.
-- Check LinkedIn for companies that are hiring for your position or other basic filter like domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
+- Check LinkedIn for companies that are hiring for your position or other basic filter like location, skills, domain. Always check company websites, as LinkedIn profiles are sometimes not up to date.
 - Use [startup nation finder](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ95PqztyIAxXfNwYAHUj4NQwYABABGgJ3cw&co=1&ase=2&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6MrtG8kVMXTTZ0QJ9xiX3SbTyeylhPigdMdTu_WoW9EGu8886gmaGYaAm-EEALw_wcB&ei=aDvzZu6cMZ-LkdUPqfS80A8&ohost=www.google.com&cid=CAESVuD2CmxlPLbr21zRifrZteyXKotDZCpAW-fVdeZToGzrGK8u1FZ_akNqiOaainEMjd2LEHIDfXbLhOvEp5ErpdZ5BLOenX8kpxJLF2ed5AY-wwEoSAdN&sig=AOD64_1ONuXD3J2aUfMQUV-oYkMc3HQb3Q&q&sqi=2&nis=4&adurl&ved=2ahUKEwju8I_qztyIAxWfRaQEHSk6D_oQqyQoAHoECAkQDA) to find companies based on size, domain, and location (it will allow you to see similar companies to companies you interested in).
     - you cannot filter by companies that are actively hiring for specific job, it will allow you to be exposed to more companies based on your filter and some of them will have open positions .
 - These groups can sometimes provide job leads that may not be easy to find on LinkedIn or other platforms.
