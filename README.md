@@ -73,7 +73,7 @@ To effectively track and plan your job search, consider the following steps:
 
 1. **Determine Time Allocation**: Decide how much time you are willing to dedicate to job searching versus interview preparation.
 
-2. **Set Weekly Goals**: Establish specific weekly targets for the number of job applications you want to submit and the number of interviews you hope to secure.
+2. **Set Weekly Goals**: Establish specific weekly targets for the number of job applications you want to submit and the number of interviews you want to participate in.
 
 3. **Plan Preparation Hours**: Define the amount of time you want to spend preparing for interviews each week.
 
