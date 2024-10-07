@@ -45,7 +45,7 @@ Understanding the distinctions between these roles is essential to focus your pr
 
 ## Choosing the Right Company Size
 
-Once you've identified the type of job you're after, the next step is figuring out your ideal company size. Whether it's a small startup, a growing mid-sized company, or a massive corporation, each option offers a unique work environment. At large companies, you'll enjoy access to established processes, specialized roles, and experienced mentors. On the flip side, startups often move fast, prioritize rapid feedback, and give you a broader range of responsibilities. Your choice will influence not only the kind of tasks you take on but also how much of an impact you’ll have on the product’s overall direction.
+Once you've identified the type of job you want, the next step is figuring out your ideal company size. Whether it's a small startup, a growing mid-sized company, or a massive corporation, each option offers a unique work environment. At large companies, you'll enjoy access to established processes, specialized roles, and experienced mentors. On the flip side, startups often move fast, prioritize rapid feedback, and give you a broader range of responsibilities. Your choice will influence not only the kind of tasks you take on but also how much of an impact you’ll have on the product’s overall direction.
 
 ## What to Consider When Choosing a Company
 
