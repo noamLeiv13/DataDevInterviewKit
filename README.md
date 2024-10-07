@@ -82,7 +82,7 @@ Creating this system will not only help you stay organized but will also enhance
 
 # How to Create a CV
 Use a template to create your CV, this will allow you to focus primarily on the content rather than the design. A good option is [CV Designer](https://cvdesignr.com/en).
-Your CV should include the following sections
+Your CV should include the following sections:
 - **Summary**: Write two sentences outlining your professional background, areas of expertise, and what you're seeking in your next opportunity.
 - **Education**: List relevant degrees, certifications, or courses that highlight your technical expertise.
 - **Work Experience**: For each position, focus on the key projects you worked on and their impact on the company. **Include measurable results when possible.**
